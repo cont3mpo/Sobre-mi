@@ -3,7 +3,7 @@
 ### :sparkles: Buscando ideas
 Estoy viendo algo nuevo qué hacer, aparte de crear música, artes, diseño, código, algo que me entretenga :relaxed:
 
-### :telescope: Cosas para 2020
+### :telescope: Cosas pendientes
 Escribir más en mi [blog](https://cont3mpo.github.io). Publicar las historias de ficción que estoy escribiendo. Y ojalá publicar más código también en Github :P
 
 ### :coffee: Quieres escribirme?
