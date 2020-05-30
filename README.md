@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-:wave: Hola! Soy un diseñador UX/UI, me gusta escribir y cocinar :sparkling_heart:
-
+:wave: Hola! Soy un diseñador UX/UI, me gusta escribir y cocinar :sparkling_heart: 🧑🏻‍🍳
 ### :sparkles: Buscando ideas
 Estoy viendo algo nuevo qué hacer, aparte de crear música, artes, diseño, código, algo que me entretenga :relaxed:
 
