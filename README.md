@@ -1,4 +1,4 @@
-:wave: Hola! Soy un diseñador UX/UI, me gusta escribir y cocinar 🧑🏻‍🍳
+Hola! Soy un diseñador UX/UI, me gusta escribir y cocinar 🧑🏻‍🍳
 
 ### :sparkles: Buscando ideas
 Estoy viendo algo nuevo qué hacer, aparte de crear música, artes, diseño, código, algo que me entretenga :relaxed:
