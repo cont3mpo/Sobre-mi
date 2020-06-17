@@ -1,6 +1,9 @@
 ### 👋 Hola!
 Soy un diseñador UX/UI, me gusta escribir y cocinar 🧑🏻‍🍳
 
+### 🎨 Diseño
+Puedes ver algunos de mis [diseños en Behance](https://www.behance.net/cont3mpoc110).
+
 ### :sparkles: Buscando ideas
 Estoy viendo algo nuevo qué hacer, aparte de crear música, artes, diseño, código, algo que me entretenga 😌
 
