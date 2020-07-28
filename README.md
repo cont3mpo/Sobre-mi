@@ -4,10 +4,10 @@ Soy un Diseñador UX/UI y Frontend, me gusta escribir y cocinar 🧑🏻‍🍳
 ### 🎨 Diseño
 Puedes ver algunos de mis [diseños en Behance](https://www.behance.net/cont3mpoc110).
 
-### :sparkles: Buscando ideas creativas
+### 💡 Buscando ideas
 Estoy viendo algo nuevo qué hacer, aparte de crear música, artes, diseño, código, algo que me entretenga 😌
 
-### :coffee: Escritura pendiente
+### 📝 Escritura pendiente
 Escribir más en [mi blog](https://cont3mpo.github.io/blog.html). Publicar las historias de ficción que estoy escribiendo. Y ojalá publicar más código también en Github 😋
 
 ### 💌 Quieres escribirme?
