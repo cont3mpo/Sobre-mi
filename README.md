@@ -1,5 +1,5 @@
 ## Hola, soy Rubén!
-Soy un Diseñador UX / UI / User Research, también me gusta escribir y cocinar 🧑🏻‍🍳
+Soy Diseñador UX / UI / User Research, también me gusta escribir y cocinar 🧑🏻‍🍳
 
 ### 🎨 Diseño
 Puedes ver algunos de mis [diseños en Behance](https://www.behance.net/cont3mpoc110).
